@@ -1,3 +1,7 @@
+
+
+// node commands/setLogChannel.js
+
 const fs = require('fs');
 
 require('dotenv').config();
